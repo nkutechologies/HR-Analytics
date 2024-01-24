@@ -3,13 +3,15 @@
 Human Resource Management System(HRMS) provides with a complete HR suite for your business that will help respond to various HR challenges. The system comprises of integrated Payroll,Benefits, Employee Information & Management modules that provide a transparent and accurate view of all HR processes in a well-organized and reliable manner. Simplify your HR, Time & Attendance, Payroll and other important HCM functions with ease. Process your Payroll in minutes. Keep it transparent with your employees.
 Cut out unnecessary HR admin, improve your payroll accuracy and spend more time developing your people and organization
 
-## :hammer_and_wrench: Technology Stack
+##  Tools & Technologies
 
 - React Native
 - SQL
 - .Net
+- NodeJs
+- Angular
 
-## :clipboard: Features
+## Modules
 
 ###  Organizational Management 
 The Company, Departments and Branches: Creates and maintains organizational structures and their departments, branches, positions, and jobs. 
@@ -34,7 +36,12 @@ The system provides a comprehensive attendance management system which comes int
 
 The Pay and Benefits: Calculates earnings and payment-related items for employees. Processes benefit, which includes sending and receiving information to and from other group companies.
 
+## Screenshots
+
 ![alt text](https://github.com/Ironmandeveloper/HR-Analytics/blob/main/Hiring.png?raw=true)
+
 ![alt text](https://github.com/Ironmandeveloper/HR-Analytics/blob/main/LeaveAnalysis.png?raw=true)
+
 ![alt text](https://github.com/Ironmandeveloper/HR-Analytics/blob/main/SalaryAnalysis.png?raw=true)
+
 ![alt text](https://github.com/Ironmandeveloper/HR-Analytics/blob/main/TerminationAnalysis.png?raw=true)
