@@ -38,10 +38,23 @@ The Pay and Benefits: Calculates earnings and payment-related items for employee
 
 ## Screenshots
 
-![alt text](https://github.com/Ironmandeveloper/HR-Analytics/blob/main/Hiring.png?raw=true)
+### New Starters Analysis
 
-![alt text](https://github.com/Ironmandeveloper/HR-Analytics/blob/main/LeaveAnalysis.png?raw=true)
+![New Starters Analysis](https://github.com/nkutechologies/HR-Analytics/assets/71810407/89dd3e3d-044a-43d7-84d0-b63716b8d264)
 
-![alt text](https://github.com/Ironmandeveloper/HR-Analytics/blob/main/SalaryAnalysis.png?raw=true)
+### Leave Analysis
 
-![alt text](https://github.com/Ironmandeveloper/HR-Analytics/blob/main/TerminationAnalysis.png?raw=true)
+![Leave Analysis](https://github.com/nkutechologies/HR-Analytics/assets/71810407/86761732-75a6-488d-9be3-313255109950)
+
+### Salary Analysis
+
+![Salary Analysis](https://github.com/nkutechologies/HR-Analytics/assets/71810407/a5e03459-63c1-4aa2-b647-86d17f0eb008)
+
+
+
+
+
+
+
+
+
