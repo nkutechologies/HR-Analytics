@@ -5,7 +5,7 @@ Cut out unnecessary HR admin, improve your payroll accuracy and spend more time 
 
 ##  Tools & Technologies
 
-- React Native
+- Power BI
 - SQL
 - .Net
 - NodeJs
